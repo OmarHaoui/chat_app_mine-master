@@ -1,0 +1,5 @@
+
+linter:
+  rules:
+    - always_require_new_keyword_for_instance_creation: true
+
