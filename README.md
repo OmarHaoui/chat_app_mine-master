@@ -19,21 +19,23 @@ Personalize your chat experience with custom avatars and notification settings.
 # Screenshots:
 
 Splash screen: 
-Conversation view: Capture a glimpse of a lively chat thread with both text and image messages.
-Group chat: Present a screenshot of a bustling group conversation with multiple participants.
-Profile settings: Highlight the ability to personalize avatars and notification preferences.
-Getting started:
 
-Clone the repository: git clone https://github.com/OmarHaoui/chat_app_mine-master
-Set up your Firebase project and configure authentication and Firestore.
-Update firebase_options.dart with your Firebase project configuration.
-Run flutter pub get to download dependencies.
-Run flutter run to launch the app on your device or simulator.
-Contributing:
+Header screen:
+Login screen:
+Sign Up screen:
+
+# Getting started:
+
+1- Clone the repository: git clone https://github.com/OmarHaoui/chat_app_mine-master
+2- Set up your Firebase project and configure authentication and Firestore.
+3- Update firebase_options.dart with your Firebase project configuration.
+4- Run flutter pub get to download dependencies.
+5- Run flutter run to launch the app on your device or simulator.
+# Contributing:
 
 Pull requests and issues are welcome. Please follow contributing guidelines when contributing to the project.
 
-Stay updated:
+# Stay updated:
 
 Follow our Github repository for the latest updates and releases.
 Check out our [insert other communication channels if available] for exciting news and community engagement.
