@@ -29,11 +29,12 @@ Personalize your chat experience with custom avatars and notification settings.
 
 # Getting started:
 
-1- Clone the repository: git clone https://github.com/OmarHaoui/chat_app_mine-master
-2- Set up your Firebase project and configure authentication and Firestore.
-3- Update firebase_options.dart with your Firebase project configuration.
-4- Run flutter pub get to download dependencies.
-5- Run flutter run to launch the app on your device or simulator.
+1- Clone the repository: git clone https://github.com/OmarHaoui/chat_app_mine-master.  
+2- Set up your Firebase project and configure authentication and Firestore.  
+3- Update firebase_options.dart with your Firebase project configuration.  
+4- Run flutter pub get to download dependencies.  
+5- Run flutter run to launch the app on your device or simulator.  
+
 # Contributing:
 
 Pull requests and issues are welcome. Please follow contributing guidelines when contributing to the project.
